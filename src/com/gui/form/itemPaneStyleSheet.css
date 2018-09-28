@@ -1,0 +1,22 @@
+
+#topPane{
+   -fx-background-color: transparent;
+    -fx-padding: 10 ;
+    -fx-spacing: 10;
+    
+}
+#topPane> .button{
+    -fx-font-family:"Arial";
+    -fx-font-Size:16;
+}
+#searshTextField{
+    -fx-font-family:"Arial";
+    -fx-font-Size:16;
+}
+#itemTableView{
+    -fx-padding: 10px ;
+    -fx-background-color: transparent;
+    -fx-font-family:"Arial";
+    -fx-font-Size:16;
+}
+
